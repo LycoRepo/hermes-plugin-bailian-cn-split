@@ -1,5 +1,5 @@
 name: bailian-cn-split
 kind: model-provider
-version: 1.0.0
-description: "阿里云百炼（中国站）拆成两行显示：Qwen（自家品牌，173 个）与 Bailian Third-party（第三方模型，67 个）。合并自 alibaba-cn-qwen 与 bailian-others，provider 名/别名/端点/环境变量均未变。"
+version: 1.0.1
+description: "阿里云百炼（中国站）拆成两行显示：Qwen（自家品牌，108 个）与 Bailian Third-party（第三方模型，54 个）。合并自 alibaba-cn-qwen 与 bailian-others，provider 名/别名/端点/环境变量均未变。"
 author: LycoRepo
